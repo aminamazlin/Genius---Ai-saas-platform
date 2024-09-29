@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Genius is an AI Saas Platform that let's you generate text, images, video, code and music.
+
 ## Getting Started
 
 First, run the development server:
